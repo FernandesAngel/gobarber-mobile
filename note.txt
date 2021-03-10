@@ -1,0 +1,2 @@
+ "@unform/core": "^2.1.6",
+    "@unform/mobile": "^2.1.6",
